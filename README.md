@@ -3,6 +3,7 @@ GreatApe78
 
 </h1>
 
-<p>
+<h2>
     Estudante
-</p>
+</h2>
+<img src="https://www.svgrepo.com/show/507931/arrow-up-right-square.svg" alt="imagem" />
