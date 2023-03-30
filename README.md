@@ -3,6 +3,6 @@ GreatApe78
 
 </h1>
 
-<h2>
+<p>
     Estudante
-</h2>
+</p>
