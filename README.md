@@ -3,8 +3,8 @@
     pragma solidity ^0.8.2;
     
     contract Hello{
-        function sayHello() external pure returns(string memory){
-            return "Hello!";
+        function sayHelloMateus() external pure returns(string memory){
+            return "Hello Mateus!";
         }
     }
     
